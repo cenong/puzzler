@@ -1,7 +1,17 @@
 ## Introduction
+Puzzler is a memory testing virtual reality (VR) application (app). The game requires the player to repeat the sequence of orbs highlighted in a random order.
 
+The thought process involved in designing a VR app taught me many skills including:
+- scene sketching
+- VR object scaling
+- mood setting with lighting and audio
+- UI design sketching
+- user testing
+Most importantly, I learnt that going in early and often is the most efficient technique to discover and resolve issues.
+ 
 ## Results
 Outcomes - show results
+[![](https://img.youtube.com/vi/pZc5vHyaPdE/0.jpg)](https://www.youtube.com/watch?v=pZc5vHyaPdE)
 
 ![](media/vrstart.png?raw=true "Name")
 
