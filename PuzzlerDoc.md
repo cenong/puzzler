@@ -8,6 +8,7 @@ I enjoyed the process involved in creating this VR application. I gained a profo
 - mood setting with lighting and audio (Unity and Google Cardboard)
 - UI design sketching
 - user testing
+
 Most importantly, I learnt that going in early and often is the most efficient technique to discover and resolve issues.
  
 ## Results
