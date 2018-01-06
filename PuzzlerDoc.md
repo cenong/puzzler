@@ -46,20 +46,29 @@ For the puzzler game, I envisioned fun-loving undergraduate students, with a pas
 >I am a geek at heart. I love a creative, challenging game.
 
 Jonah is a single, male undergraduate student who loves solving puzzles in his free time. He enjoys music and art, so he likes challenging creative games.
+
 **VR experience**: Beginner
 
 ### Sketches
+
+I made sketches of several distinct settings where the puzzler game may be encountered. Some ideas include a cave in a forest, a hidden room in a castle and a deserted barn. Finally, I settled on a cityscape where the game is found in an exhibition room at a museum.
+
 ![](media/cityscape.jpg?raw=true "Cityscape Sketch")
 
+I created multiple sketches of the UI which enables the player to transition from the greeting screen to gameplay, and finally, upon successful completion of the game, to restart the game. I decided on a start screen which explains the task of the game so that the player will not be startled by the orbs upon transition of the scene.
+
 ![](media/uisketches.png?raw=true "UI Sketch")
+
+I am interested in 3D model building, so I decided to learn SketchUp and designed a simple caged light for my game instead of using the torch prefab. 
 
 ![](media/cagedlight.png?raw=true "Caged Light")
 
 ### User Testing
-Story of the process - show thoughtfulness in process
-User testing outcomes and iteration
+
+Aside from the mechanics of the actual memory testing game, scene transitions are very important to ensure a positive experience for the player. In VR, the method and rate of movement within the game need to be implemented carefully to ensure that the player does not experience simulator sickness.
 
 ## Scene Breakdown
+
 ![](media/startscene.png?raw=true "Name")
 
 ![](media/gamelight.png?raw=true "Name")
@@ -70,5 +79,6 @@ User testing outcomes and iteration
 
 ## Conclusions
 
-## Next Steps
+## Future Improvements
+
 This is a test document.
