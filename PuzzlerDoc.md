@@ -14,23 +14,25 @@ Most importantly, I learnt that going in early and often is the most efficient t
 ## Results
 
 The image below is a link to a video recording of the VR experience on an iPhone. Please click on the image to play the video.
-[![](https://img.youtube.com/vi/pZc5vHyaPdE/0.jpg)](https://www.youtube.com/watch?v=pZc5vHyaPdE)
+
+[![Figure 1](https://img.youtube.com/vi/pZc5vHyaPdE/0.jpg)](https://www.youtube.com/watch?v=pZc5vHyaPdE "VR Experience on iPhone")
 
 The video starts with a UI screen which greets the player when the game is first loaded.
-![](media/vrstart.png?raw=true "Name")
+<span style="display:block;text-align:center">![Figure 2](media/vrstart.png?raw=true "Start UI")
+</span>
 
-![](media/vrroomviewcenter.png?raw=true "Name")
+![](media/vrroomviewcenter.png?raw=true "Room View")
 
 ## Design Process
 ### Persona
-![](media/persona.png?raw=true "Name")
+![](media/persona.png?raw=true "Persona")
 
 ### Sketches
-![](media/cityscape.jpg?raw=true "Name")
+![](media/cityscape.jpg?raw=true "Cityscape Sketch")
 
-![](media/uisketches.png?raw=true "Name")
+![](media/uisketches.png?raw=true "UI Sketch")
 
-![](media/cagedlight.png?raw=true "Name")
+![](media/cagedlight.png?raw=true "Caged Light")
 
 ### User Testing
 Story of the process - show thoughtfulness in process
