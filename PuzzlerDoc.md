@@ -1,15 +1,7 @@
 ## Introduction
 Puzzler is a memory testing VR application. The game requires the player to repeat the sequence of orbs highlighted in a random order.
 
-I enjoyed the process involved in creating this VR application. I gained a profound understanding of the skills and time required to produce a relatively simple game. These skills include: 
-- scene sketching
-- 3D model building (SketchUp)
-- VR object scaling (Unity and Google Cardboard)
-- mood setting with lighting and audio (Unity and Google Cardboard)
-- UI design sketching
-- user testing
-
-Most importantly, I learnt that going in early and often is the most efficient technique to discover and resolve issues. The following sections display the final results of the project, explain the design process, illustrate different components of the game, provide conclusions and explore future improvements. 
+The following sections display the final results of the project, explain the design process, illustrate different components of the game, provide conclusions and explore future improvements. 
  
 ## Results
 
@@ -89,7 +81,18 @@ Finally, after completing the puzzle, the player is given the option to restart 
 
 ## Conclusions
 
+I enjoyed the process involved in creating this VR application. I gained a profound understanding of the skills and time required to produce a relatively simple game. These skills include: 
+- scene sketching
+- 3D model building (SketchUp)
+- VR object scaling (Unity and Google Cardboard)
+- mood setting with lighting and audio (Unity and Google Cardboard)
+- visual and audio feedback to player input (Unity and Google Cardboard)
+- UI design sketching
+- user testing
+
+Most importantly, I learnt that going in early and often is the most efficient technique to discover and resolve issues. 
+
 ## Future Improvements
 
-- Implement the cityscape for the Skybox
+- Implement a night time cityscape for the background
 - Design a modern room for the game
