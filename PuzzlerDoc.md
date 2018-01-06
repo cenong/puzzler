@@ -29,7 +29,7 @@ Please click on the image to play the video.
 
 ## Design Process
 
-It is important to understand the target audience when you are designing a game. A useful technique for reflecting on and figuring out the target audience for your application is to create a persona. When creating a persona, I tried to answer the following questions:
+Understanding the target audience is important when designing a game. A useful technique for reflecting on and figuring out the target audience for your application is to create a persona. When creating a persona, I tried to answer the following questions:
 - What motivates them?
 - What is their experience with VR?
 - How old are they?
@@ -61,19 +61,29 @@ I created multiple sketches of the UI which enables the player to transition fro
 
 I am interested in 3D model building, so I decided to learn SketchUp and designed a simple caged light for my game instead of using the torch prefab. 
 
-![](media/cagedlight.png?raw=true "Caged Light")
+![](media/gamelight.png?raw=true "Name")
 
 ### User Testing
 
-Aside from the mechanics of the actual memory testing game, scene transitions are very important to ensure a positive experience for the player. In VR, the method and rate of movement within the game need to be implemented carefully to ensure that the player does not experience simulator sickness.
+The most important lesson I gathered from this project is the importance of going in early and often. I performed several iterations of user testing on my trusty test candidate, Josh.
+
+The first test involved scaling of the UI canvas. He likes the size and readability of the panel but was annoyed that he had to rotate his head to read the entire canvas. I fixed this issue by increasing the camera distance to the canvas.
+
+Initially, the highlighted color of the ```Start``` button was yellow. He felt that yellow was not a color that indicates forward motion and suggested that the color be changed to green.
+
+When he made a mistake during the game, the failure audio would be played. However, when he solved the puzzle successfully, he was immediately transitioned to the ```Restart``` screen. The immediate transition made the game anti-climactic, so he suggested a success audio to be played upon completion of the game.
 
 ## Scene Breakdown
 
+Upon loading the application, the player is greeted with a ```Start``` panel which explains the game and allows the player to initiate the game.
+
 ![](media/startscene.png?raw=true "Name")
 
-![](media/gamelight.png?raw=true "Name")
+After clicking on the ```Start``` button, the player moves through a dungeon gate into a dimly lit room. In VR, the method and rate of movement within the game need to be implemented carefully to ensure that the player does not experience simulator sickness. I experimented with several speeds to allow the player to appreciate the surroundings and cheering after successfully completing the game.
 
 ![](media/playscene.png?raw=true "Name")
+
+Finally, after completing the puzzle, the player is given the option to restart the game.
 
 ![](media/restartscene.png?raw=true "Name")
 
@@ -81,4 +91,5 @@ Aside from the mechanics of the actual memory testing game, scene transitions ar
 
 ## Future Improvements
 
-This is a test document.
+- Implement the cityscape for the Skybox
+- Design a modern room for the game
