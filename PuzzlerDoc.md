@@ -63,7 +63,7 @@ The first test involved scaling of the UI canvas. He likes the size and readabil
 
 Initially, the highlighted color of the ```Start``` button was yellow. He felt that yellow was not a color that indicates forward motion and suggested that the color be changed to green.
 
-When he made a mistake during the game, the failure audio would be played. However, when he solved the puzzle successfully, he was immediately transitioned to the ```Restart``` screen. The immediate transition made the game anti-climactic, so he suggested a success audio to be played upon completion of the game.
+When he made a mistake during the game, the failure audio would be played. However, when he solved the puzzle successfully, he was immediately transitioned to the ```Restart``` screen. The immediate transition made the game anti-climactic, so he suggested a success audio to be played upon completion of the game. I implemented a cheering audio clip to be played when the player is successful.
 
 ## Scene Breakdown
 
@@ -71,11 +71,11 @@ Upon loading the application, the player is greeted with a ```Start``` panel whi
 
 ![](media/startscene.png?raw=true "Name")
 
-After clicking on the ```Start``` button, the player moves through a dungeon gate into a dimly lit room. In VR, the method and rate of movement within the game need to be implemented carefully to ensure that the player does not experience simulator sickness. I experimented with several speeds to allow the player to appreciate the surroundings and cheering after successfully completing the game.
+After clicking on the ```Start``` button, the player moves through a dungeon gate into a dimly lit room. In VR, the method and rate of movement within the game need to be implemented carefully to ensure that the player does not experience simulator sickness. I experimented with several speeds to allow the player some time to appreciate the surroundings and cheering after successfully completing the game.
 
 ![](media/playscene.png?raw=true "Name")
 
-Finally, after completing the puzzle, the player is given the option to restart the game.
+Finally, the player is given the option to restart the game.
 
 ![](media/restartscene.png?raw=true "Name")
 
