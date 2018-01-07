@@ -1,3 +1,6 @@
+# Puzzler Project
+By Cen Ong
+
 ## Introduction
 Puzzler is a memory testing VR application. The game requires the player to repeat the sequence of orbs highlighted in a random order.
 
