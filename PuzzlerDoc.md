@@ -27,6 +27,8 @@ Understanding the target audience is important when designing a game. A useful t
 - How old are they?
 - What do they do for work?
 
+This list of questions is not exhaustive and there may be other factors for consideration when determining the target audience.
+ 
 ### Persona
 
 For the puzzler game, I envisioned fun-loving undergraduate students, with a passion for puzzle games. The snippet below is a sample of a potential persona:
@@ -57,9 +59,9 @@ I am interested in 3D model building, so I decided to learn SketchUp and designe
 
 ### User Testing
 
-The most important lesson I gathered from this project is the importance of going in early and often. I performed several iterations of user testing on my trusty test candidate, Josh.
+The most important lesson I gathered from this project is the importance of going in early and often. I performed several iterations of user testing on one trusty test candidate.
 
-The first test involved scaling of the UI canvas. He likes the size and readability of the panel but was annoyed that he had to rotate his head to read the entire canvas. I fixed this issue by increasing the camera distance to the canvas.
+The first test involved scaling of the UI canvas. He liked the size and readability of the panel but was annoyed that he had to rotate his head to read the entire canvas. I fixed this issue by increasing the camera distance to the canvas.
 
 Initially, the highlighted color of the ```Start``` button was yellow. He felt that yellow was not a color that indicates forward motion and suggested that the color be changed to green.
 
@@ -73,6 +75,7 @@ Upon loading the application, the player is greeted with a ```Start``` panel whi
 
 After clicking on the ```Start``` button, the player moves through a dungeon gate into a dimly lit room. In VR, the method and rate of movement within the game need to be implemented carefully to ensure that the player does not experience simulator sickness. I experimented with several speeds to allow the player some time to appreciate the surroundings and cheering after successfully completing the game.
 
+The image below shows the dimly lit room where orbs are illuminated in a random order.
 ![](media/playscene.png?raw=true "Name")
 
 Finally, the player is given the option to restart the game.
@@ -94,5 +97,5 @@ Most importantly, I learnt that going in early and often is the most efficient t
 
 ## Future Improvements
 
-- Implement a night time cityscape for the background
-- Design a modern room for the game
+- Implement a night time cityscape and museum for the background
+- Design a modern museum room for the game
