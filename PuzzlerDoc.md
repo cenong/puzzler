@@ -73,10 +73,11 @@ Upon loading the application, the player is greeted with a ```Start``` panel whi
 
 ![](media/startscene.png?raw=true "Name")
 
-After clicking on the ```Start``` button, the player moves through a dungeon gate into a dimly lit room. In VR, the method and rate of movement within the game need to be implemented carefully to ensure that the player does not experience simulator sickness. I experimented with several speeds to allow the player some time to appreciate the surroundings and cheering after successfully completing the game.
+After clicking on the ```Start``` button, the player moves through a dungeon gate into a dimly lit room. The image below shows the dimly lit room where orbs are illuminated in a random order.
 
-The image below shows the dimly lit room where orbs are illuminated in a random order.
 ![](media/playscene.png?raw=true "Name")
+
+In VR, the method and rate of movement within the game need to be implemented carefully to ensure that the player does not experience simulator sickness. I experimented with several speeds to allow the player some time to appreciate the surroundings and cheering after successfully completing the game.
 
 Finally, the player is given the option to restart the game.
 
