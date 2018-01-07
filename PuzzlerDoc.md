@@ -27,7 +27,7 @@ Understanding the target audience is important when designing a game. A useful t
 - How old are they?
 - What do they do for work?
 
-This list of questions is not exhaustive and there may be other factors for consideration when determining the target audience.
+This list of questions is not exhaustive. There may be other factors for consideration when determining the target audience.
  
 ### Persona
 
